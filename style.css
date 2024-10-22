@@ -1,0 +1,23 @@
+body{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    text-align: center;
+    font-size: 40px;
+    background-image: url("./img.avif");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+table{
+    width: 100%;
+    padding-left: 38%;
+    padding-right: 38% ;
+    padding-top: 15%;
+}
+button{
+    width: 100px;
+    height: 100px;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
